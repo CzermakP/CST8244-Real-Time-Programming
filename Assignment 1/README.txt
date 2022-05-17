@@ -1,8 +1,8 @@
 Title: Assignment 1
 
 Authors:
-@author Josef Kundinger-Markhauser 040824003 Kund0003@algonquinlive.com
-@author Patrick Czermak            040389514 Czer0005@algonquinlive.com
+@author Josef Kundinger 
+@author Patrick Czermak            
 
 Collaborated on:
 transition table
